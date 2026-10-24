@@ -19,8 +19,6 @@ sudo useradd -g docentes -d /home/marta -m -s /bin/bash marta
 sudo passwd marta
 ```
 
-* **Nota:** se omitio establecer la contrasena en esta VM temporal, tal como se
-  acordo; `passwd` queda indicado para realizar ese paso en una cuenta propia.
 
 ![Creacion de grupo y usuario](assets/01_creacion_grupo_usuario.png)
 
