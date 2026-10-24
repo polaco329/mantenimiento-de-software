@@ -4,9 +4,9 @@
 * **Estudiante:** Francisco S. Sfiligoy Borkoski
 * **Fecha de entrega:** 2026
 
-> **Pendiente:** agregar las capturas reales de una terminal Linux. Cada captura
-> debe mostrar el usuario y nombre del equipo en el prompt, los comandos y sus
-> salidas. No reemplazar estas evidencias con capturas simuladas.
+> **Evidencias:** las cinco capturas se obtuvieron en una terminal real de
+> Linux Mint y muestran el usuario y el equipo en el prompt, los comandos y sus
+> salidas.
 
 ---
 
@@ -66,10 +66,11 @@ nombre, y `ls -la` permite mostrarlo junto con los demas.
 
 ## 4. Buenas practicas en nombres de archivos
 
-Comando:
+Comandos:
 
 ```bash
 mkdir tp_sistema_ficheros_2026
+ls -ld tp_sistema_ficheros_2026
 ```
 
 ![Creacion de un directorio](assets/04_creacion_directorio.png)
