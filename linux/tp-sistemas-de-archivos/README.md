@@ -78,9 +78,10 @@ mkdir tp_sistema_ficheros_2026
 guiones bajos, y no contiene espacios ni signos de puntuacion. Asi es mas
 sencillo escribirlo en la terminal y referenciarlo en scripts y distintos
 programas. En cambio, `TP Sistema de Ficheros (Año 2026)!.doc` tiene espacios,
-mayusculas, parentesis, un signo de exclamacion y una letra acentuada; algunos
-de esos caracteres requieren comillas o escapes en la terminal y pueden causar
-inconvenientes de compatibilidad.
+mayusculas, parentesis, un signo de exclamacion y la letra `ñ`. La guia tambien
+recomienda evitar letras acentuadas. Algunos de esos caracteres requieren
+comillas o escapes en la terminal y pueden causar inconvenientes de
+compatibilidad.
 
 ## 5. Exploracion de dispositivos y procesos
 
