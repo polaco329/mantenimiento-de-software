@@ -68,4 +68,4 @@ ping -c 4 8.8.8.8
 
 **Funcionamiento de `ping`:** envia solicitudes de eco ICMP a un destino y espera las respuestas. Sirve para comprobar si el destino resulta alcanzable desde el equipo y para observar los tiempos de respuesta y posibles perdidas de paquetes. Una falta de respuesta por si sola no demuestra que el destino este apagado: una red o un firewall tambien pueden filtrar ICMP. La opcion `-c 4` limita la prueba a cuatro solicitudes.
 
-**Resultado en esta sesion:** se ejecuto `ping -c 4 8.8.8.8`, pero la maquina Linux de prueba en el navegador informo `Network is unreachable`. Por lo tanto, no se pudo confirmar conectividad externa desde ese entorno.
+
